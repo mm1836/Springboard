@@ -1,2 +1,2 @@
-# Springboard-Data-Science-Track
-Springboard Data Science Career Track Assignments
+# Springboard
+Data Science Career Track Assignments
